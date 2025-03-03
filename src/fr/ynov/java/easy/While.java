@@ -1,5 +1,4 @@
 package fr.ynov.java.easy;
-
 public class While {
     public static void main(String[] args) {
         int count = 0;

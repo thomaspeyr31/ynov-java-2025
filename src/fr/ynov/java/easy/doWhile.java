@@ -10,4 +10,3 @@ public class doWhile {
         while (i < 11);
     }
 }
-
