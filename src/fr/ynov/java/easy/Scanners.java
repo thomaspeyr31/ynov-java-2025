@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Scanners {
 
     public static void main(String[] args) {
+        //entrée user
         Scanner sc = new Scanner(System.in);
         System.out.println("Veuillez saisir un nom :");
         String nom = sc.nextLine();
